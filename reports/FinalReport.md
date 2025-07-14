@@ -91,7 +91,7 @@ accuracy                          0.80     60000
 ## 7. Demo Video
 
 Watch the 15–20 minute project walkthrough:  
-[Google Drive Video Link]
+(https://drive.google.com/file/d/10XpQgHX16hw7YiEsB4slySwnF_7N7qOc/view?usp=sharing)
 
 ---
 
