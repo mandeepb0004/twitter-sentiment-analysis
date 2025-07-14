@@ -19,7 +19,11 @@ Social media platforms like Twitter provide real-time insights into public senti
 
 ### Sample Raw vs. Cleaned Text
 
-![Raw Sample](raw_sample.png)![alt text]
+![Raw Sample](raw_sample.png)
+
+### Class
+
+![Class Report](class_report.png)
 
 _Above: Five sample raw tweets (first 50 chars) loaded into `raw_tweets`._
 
